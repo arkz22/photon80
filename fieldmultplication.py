@@ -71,10 +71,3 @@ def modulo_reduction(a,irreducible_poly):
 
 
 print(modulo_reduction(252,irreducible_poly))
-
-
-    # if degree_a < degree_irreducible_poly:
-    #     return a
-    # else:
-    #     # For degree less than irreducible polynomial
-    #     for i in range(degree_a,0,-1):
